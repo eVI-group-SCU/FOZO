@@ -2,7 +2,7 @@
 
 [中文版](README_ZH.md) | [English](README.md)
 
-本仓库是 CVPR 2026 论文 "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://your-paper-link)" 的官方实现。
+本仓库是 CVPR 2026 论文 "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://arxiv.org/pdf/2603.04733)" 的官方实现。
 
 ## 🚀 简介
 
@@ -223,7 +223,9 @@ bash run.sh
 
 ### 仅前向测试时自适应算法的收敛曲线
 
-![收敛曲线](image.png "收敛曲线")
+<img src="image.png" alt="收敛曲线" title="收敛曲线" width="300">
+
+
 
 更快的收敛速度：在 ImageNet-C 上仅需先前方法（FOA/ZOA）所需测试时间的 66% 即可达到 相同的65%准确率。
 

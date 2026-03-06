@@ -1,6 +1,6 @@
 # FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation (CVPR 2026)
 
-This repository contains the official implementation of the CVPR 2026 paper "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://your-paper-link)".
+This repository contains the official implementation of the CVPR 2026 paper "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://arxiv.org/pdf/2603.04733)".
 
 [中文版](README_ZH.md) | English
 
@@ -210,7 +210,7 @@ Results on ImageNet-C (5K subset, severity level 5) based on ViT-Base model:
 
 ### Convergence Curves for Forward-Only TTA Algorithms
 
-![Convergence Curve](image.png "Convergence Curve")
+<img src="image.png" alt="Convergence Curve" title="Convergence Curve" width="300">
 
 Faster convergence: On ImageNet-C, only 66% of the test time required by previous methods (FOA/ZOA) is needed to achieve the same 65% accuracy.
 
