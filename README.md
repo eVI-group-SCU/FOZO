@@ -1,6 +1,6 @@
 # FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation (CVPR 2026)
 
-This repository contains the official implementation of the CVPR 2026 paper "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://your-paper-link)".
+This repository contains the official implementation of the CVPR 2026 paper "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://arxiv.org/abs/2603.04733)".
 
 [中文版](README_ZH.md) | English
 

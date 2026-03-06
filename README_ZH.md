@@ -2,7 +2,7 @@
 
 [中文版](README_ZH.md) | [English](README.md)
 
-本仓库是 CVPR 2026 论文 "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://your-paper-link)" 的官方实现。
+本仓库是 CVPR 2026 论文 "[FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](https://arxiv.org/abs/2603.04733)" 的官方实现。
 
 ## 🚀 简介
 
